@@ -1,0 +1,20 @@
+covid-data-analysis/
+│
+├── data/
+│   └── covid_raw_data.csv
+│
+├── sql/
+│   └── covid_analysis.sql
+│
+├── python/
+│   └── covid_analysis.ipynb
+│
+├── powerbi/
+│   └── covid_dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
+
+foldername/filename.ext
